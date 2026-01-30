@@ -1,0 +1,9 @@
+{
+  "/numeroCuenta" :["obligatorio", "cuenta"],
+  "/cuentaCLABE" :["NO", "cuentaCLABE"],
+  "/fechaNacimiento" :["obligatorio", "fecha"],
+  "/correoElectronico" :["obligatorio", "eMail"],
+  "/telefono" :["obligatorio", "telefono"],
+  "/monto" :["obligatorio", "monto"],
+  "/idPais" :["obligatorio", "numerico"]
+}
